@@ -42,8 +42,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "RMD Realestate",
+        "meta_descr": "Your Home plug",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
